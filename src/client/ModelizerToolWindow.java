@@ -1,16 +1,15 @@
-package modelizer;
+package client;
 
 import org.fife.ui.rsyntaxtextarea.*;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.IOException;
 
 
 /**
  * Created by erikrahtjen on 9/27/16.
  */
-public class ModelizerToolWindow implements ModelizerPresenter.View, OnClickListener<ModelizerTextField> {
+public class ModelizerToolWindow implements ModelizerPresenter.View, OnClickListener<client.ModelizerTextField> {
 
     /*
         UI Objects
@@ -19,7 +18,7 @@ public class ModelizerToolWindow implements ModelizerPresenter.View, OnClickList
     private JTabbedPane tabbedPane1;
     private JTextArea textArea1;
     private JTextArea textArea2;
-    private ModelizerTextField httpTextField;
+    private client.ModelizerTextField httpTextField;
     private RSyntaxTextArea responseBodyEditorPane;
     private JPanel responsePanel;
 

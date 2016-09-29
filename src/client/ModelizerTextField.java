@@ -1,17 +1,12 @@
-package modelizer;
-
-import com.intellij.uiDesigner.core.GridLayoutManager;
+package client;
 
 import javax.swing.*;
-import javax.swing.event.DocumentEvent;
-import javax.swing.event.DocumentListener;
 
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import static modelizer.HttpVerb.*;
-import static modelizer.HttpVerb.DELETE;
+import static client.HttpVerb.*;
+import static client.HttpVerb.DELETE;
 
 /**
  * Created by erikrahtjen on 9/26/16.

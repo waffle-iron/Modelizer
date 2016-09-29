@@ -1,10 +1,6 @@
-package modelizer;
+package client;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.JsonParser;
 import com.google.gson.stream.JsonReader;
-import com.jetbrains.jsonSchema.extension.schema.JsonSchemaRefReferenceProvider;
 import okhttp3.*;
 
 import java.io.IOException;
