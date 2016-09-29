@@ -1,4 +1,4 @@
-package modelizer;
+package client;
 
 import javax.swing.*;
 import javax.swing.text.*;

@@ -25,7 +25,7 @@
   -->
 
   <extensions defaultExtensionNs="com.intellij">
-    <toolWindow id="Modelizer -- JSON to POJO" icon="/icon.png" anchor="right" factoryClass="modelizer.ModelizerFactory"/>
+    <toolWindow id="Modelizer -- JSON to POJO" icon="/icon.png" anchor="right" factoryClass="client.ModelizerFactory"/>
   </extensions>
 
   <actions>

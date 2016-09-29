@@ -1,4 +1,4 @@
-package modelizer;
+package client;
 
 /**
  * Created by erikrahtjen on 9/27/16.

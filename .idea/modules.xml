@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modelizer.iml" filepath="$PROJECT_DIR$/modelizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/modelizer.iml" filepath="$PROJECT_DIR$/client/modelizer.iml" />
     </modules>
   </component>
 </project>

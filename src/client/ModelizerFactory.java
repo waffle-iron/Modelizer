@@ -1,4 +1,4 @@
-package modelizer;
+package client;
 
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.wm.ToolWindow;

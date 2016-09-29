@@ -26,6 +26,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="maven" target="1.5" />
+      <module name="modelizer_main" target="1.5" />
+      <module name="modelizer_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
