@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6ab3489-951d-40be-b049-41ca1b8a7236" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/AbstractLayout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/DimensionInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/GridConstraints.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/GridLayoutManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/HorizontalInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/LayoutState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/Spacer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/SupportCode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/Util.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/com/intellij/uiDesigner/core/VerticalInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/GhostText.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/HttpVerb.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/JSONEditorKit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerPresenter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerPresenter$View.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerPresenter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerTextField.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/ModelizerToolWindow.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/OnClickListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/modelizer/Registerable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelizer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/modelizer/META-INF/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/GhostText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/HttpVerb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/JSONEditorKit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerPresenter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerTextField.form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerTextField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerToolWindow.form" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/ModelizerToolWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/OnClickListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/modelizer/Registerable.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f6ab3489-951d-40be-b049-41ca1b8a7236" name="Default" comment="" />
     <ignored path="modelizer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
