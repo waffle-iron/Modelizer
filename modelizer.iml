@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.4.1" level="project" />
-    <orderEntry type="library" name="com.fifesoft:rsyntaxtextarea:2.5.8" level="project" />
+    <orderEntry type="library" exported="" name="com.squareup.okhttp3:okhttp:3.4.1" level="project" />
+    <orderEntry type="library" exported="" name="com.fifesoft:rsyntaxtextarea:2.5.8" level="project" />
   </component>
 </module>
